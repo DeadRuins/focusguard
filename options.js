@@ -12,8 +12,8 @@ const predefinedSites = [
     { name: 'Twitter (X)', url: 'x.com' },
     { name: 'LinkedIn', url: 'linkedin.com' },
     { name: 'Pinterest', url: 'pinterest.com' },
-    { name: 'Reddit', url: 'reddit.com' }
-    { name: 'Bluesky', url: 'bsky.app' }
+    { name: 'Reddit', url: 'reddit.com' },
+    { name: 'Bluesky', url: 'bsky.app' },
     { name: 'Discord', url: 'discord.com' }
 ];
 
