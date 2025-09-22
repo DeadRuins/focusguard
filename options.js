@@ -13,6 +13,8 @@ const predefinedSites = [
     { name: 'LinkedIn', url: 'linkedin.com' },
     { name: 'Pinterest', url: 'pinterest.com' },
     { name: 'Reddit', url: 'reddit.com' }
+    { name: 'Bluesky', url: 'bsky.app' }
+    { name: 'Discord', url: 'discord.com' }
 ];
 
 // Detect platform for specific adjustments
